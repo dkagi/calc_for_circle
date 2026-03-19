@@ -1,0 +1,1 @@
+-IC:/Users/RoyalPC/DOCUME~1/QTPROJ~1/TEST_T~1/build/DESKTO~1/TEST_T~1/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/include -isystem "C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include/QtGui
